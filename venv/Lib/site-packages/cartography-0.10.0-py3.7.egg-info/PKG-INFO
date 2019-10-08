@@ -1,0 +1,20 @@
+Metadata-Version: 1.2
+Name: cartography
+Version: 0.10.0
+Summary: Explore assets and their relationships across your technical infrastructure.
+Home-page: https://www.github.com/lyft/cartography
+Maintainer: Lyft
+Maintainer-email: security@lyft.com
+License: apache2
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Security
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
